@@ -13,5 +13,6 @@
   },
   "scripts": {
     "build": "web-ext build -s src/ -a build/",
+    "try": "web-ext run -s src/"
   }
 }
