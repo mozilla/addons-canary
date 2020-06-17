@@ -1,0 +1,11 @@
+{
+  "name": "canary",
+  "version": "1.0.0",
+  "description": "Canary extension for testing blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MPL-2.0"
+}
