@@ -12,7 +12,7 @@
     "web-ext": "4.2.0"
   },
   "scripts": {
-    "build": "web-ext build -s src/ -a build/",
+    "build": "web-ext build -s src/ -a build/ --overwrite-dest",
     "try": "web-ext run -s src/"
   }
 }
